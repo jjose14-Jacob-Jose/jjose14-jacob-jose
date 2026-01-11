@@ -1,4 +1,4 @@
-Hello,  I am a Software Engineer currently pursing graduate studies.
+Software Engineer focused on backend and cloud systems | Java, Spring, Azure
 
 I am always open to new ideas and interested in learning what I don't know yet.
 
